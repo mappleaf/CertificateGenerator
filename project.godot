@@ -16,6 +16,8 @@ _global_script_class_icons={
 [application]
 
 config/name="CertificateGenerator"
+run/main_scene="res://src/scenes/CertificateGenerator.tscn"
+config/custom_user_dir_name="AC_Cert"
 config/icon="res://icon.png"
 
 [rendering]
